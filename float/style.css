@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    background-color: #4A4E4D;
+}
+
+.image {
+    background-color: #F6CD61;
+    float: left;
+    width: 100%;
+    height: 25vh;
+}
+
+.text {
+    float: left;
+    width: 50%;
+    height: 50vh;
+}
+
+.back-img {
+    background-image: url(https://i.pinimg.com/236x/f7/61/9e/f7619e2d9bd1816dc7cbc77403112fb9.jpg);
+    background-repeat: repeat;
+    height: 25vh;
+    max-width: 100%;
+    max-height: 100%;
+}
